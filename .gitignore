@@ -1,0 +1,12 @@
+# Repository housekeeping
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.ipynb_checkpoints/
+*.pt
+*.pth
+*.ckpt
+.cache/
